@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url(hero_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
